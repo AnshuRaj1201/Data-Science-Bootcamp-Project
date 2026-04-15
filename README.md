@@ -71,7 +71,7 @@ Data-Science-Bootcamp-Project/
 If you found this project useful, interesting, or inspiring — let's connect!
 
 | Platform | Link |
-|---|---|
+|----|----|
 | 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
 | 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
 
@@ -88,6 +88,6 @@ If this README or project helped you:
 
 ## 📜 License
 
-- This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
+- This project is licensed under the **Apache License 2.0** – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
 
 ---
