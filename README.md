@@ -72,8 +72,8 @@ If you found this project useful, interesting, or inspiring — let's connect!
 
 | Platform | Link |
 |----|----|
-| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
-| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+| 💼 LinkedIn | [Anshu Raj](www.linkedin.com/in/anshu-raj-501952337) |
+| 🐙 GitHub | [Anshu Raj](https://github.com/AnshuRaj1201)  |
 
 ---
 
